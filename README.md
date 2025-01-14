@@ -7,7 +7,6 @@
 
 - 👯 Também estou compartilhando conteúdo nas minhas redes sociais [linktr.ee/joaochiroli](linktr.ee/joaochiroli)
 
-- 💬 Me pergunte sobre **Zabbix, Grafana, Linux, Networking, Cloud**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
