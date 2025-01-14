@@ -3,7 +3,7 @@
 
 - 🎯Atualmente sou líder técnico de observabilidade na **Capgemini**
 
-- 🌱Atualmente estou aprendendo sobre **Devops e SRE**
+- 🌱 **Devops e SRE**
 
 - 👯 Também estou compartilhando conteúdo nas minhas redes sociais [linktr.ee/joaochiroli](linktr.ee/joaochiroli)
 
