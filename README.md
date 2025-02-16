@@ -1,9 +1,9 @@
 <h1 align="center">Oi 👋, Eu sou João Chiroli</h1>
-<h3 align="center">Plataform Engineer</h3>
+<h3 align="center">Devops</h3>
 
 - 🎯Atualmente sou líder técnico de observabilidade na **Capgemini**
 
-- 🌱 **Devops e SRE**
+- 🌱 **Devops**
 
 - 👯 Também estou compartilhando conteúdo nas minhas redes sociais [linktr.ee/joaochiroli](linktr.ee/joaochiroli)
 
